@@ -1,0 +1,53 @@
+{
+    "data" :[
+        {
+            "editors_choice" : "Y",
+            "title" : "Lord of the Rings",
+            "score" : 2,
+            "platform" : "Android",
+            "genre" : "sci-fi"
+
+        },
+        {
+            "editors_choice" : "N",
+            "title" : "Drive",
+            "score" : 1,
+            "platform" : "Android",
+            "genre" : "sci-fi"
+
+        },
+        {
+            "editors_choice" : "N",
+            "title" : "Science of Sleep",
+            "score" : 2,
+            "platform" : "Android",
+            "genre" : "sci-fi"
+
+        },
+        {
+            "editors_choice" : "Y",
+            "title" : "Science of Sleep",
+            "score" : 3,
+            "platform" : "Android",
+            "genre" : "sci-fi"
+
+        },
+        {
+            "editors_choice" : "Y",
+            "title" : "Back to the Future",
+            "score" : 4,
+            "platform" : "Android",
+            "genre" : "sci-fi"
+
+        }
+        ,
+        {
+            "editors_choice" : "Y",
+            "title" : "Oldboy",
+            "score" : 5,
+            "platform" : "Android",
+            "genre" : "sci-fi"
+
+        }
+    ]
+}
